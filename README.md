@@ -1,0 +1,2 @@
+# GUI-icon-localization
+locator
