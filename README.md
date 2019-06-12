@@ -1,2 +1,1 @@
-# GUI-icon-localization
-locator
+# Visual Explanation for Weakly Supervised Object Localization
