@@ -13,6 +13,6 @@ After that we perform [OTSU thresholding](http://ijarcet.org/wp-content/uploads/
 
 <img src="/examples/18thres_pred1.png" width="250"/> <img src="/examples/18thresbb_pred1.png" width="250"/>
 
-Finally we iteratively perform activation maximization to see what the trained network has learned.
+Finally we iteratively perform activation maximization to see what the trained network has learned. Example outputs for the arrow and menu classes.
 
-<img src="/examples/menu-activation.png" width="250"/>
+<img src="/examples/arrow-activation.png" width="250"/> <img src="/examples/menu-activation.png" width="250"/>
