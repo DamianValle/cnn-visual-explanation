@@ -15,4 +15,5 @@ After that we perform [OTSU thresholding](http://ijarcet.org/wp-content/uploads/
 
 Finally we iteratively perform activation maximization to see what the trained network has learned. Example outputs for the arrow and menu classes.
 
-![Menu](/examples/menu-activation.png "Menu activations") ![House](/examples/house-activation.png "House activations")
+![House](/examples/house-activation.png "House activations")
+![Love](/examples/love-activation.png "Love activations")
