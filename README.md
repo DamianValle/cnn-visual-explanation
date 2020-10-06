@@ -13,7 +13,6 @@ After that we perform [OTSU thresholding](http://ijarcet.org/wp-content/uploads/
 
 <img src="/examples/18thres_pred1.png" width="250"/> <img src="/examples/18thresbb_pred1.png" width="250"/>
 
-Finally we iteratively perform activation maximization 
-<img src="https://latex.codecogs.com/svg.latex?x_{t+1} = x_t + \eta * \frac{\partial h_{i,l}(\theta, x)}{\partial x}" />
+Finally we iteratively perform activation maximization to see what the trained network has learned.
 
-![Menu Activation](/examples/menu-activation.png)
+<img src="/examples/menu-activation.png" width="250"/>
