@@ -1,6 +1,5 @@
 # Visual Explanation for Weakly Supervised Object Localization
 
-Code for my [thesis](https://findit.dtu.dk/en/catalog/2450517180) carried out at [DTU](http://www.dtu.dk).
 We weakly train a CNN classifier with the [rico dataset](http://interactionmining.org/rico) on existence of icons in mobile app screenshots. 
 
 ![Rico dataset](/examples/rico.jpg "Rico dataset")
@@ -17,3 +16,5 @@ Finally we iteratively perform activation maximization to see what the trained n
 
 ![House](/examples/house-activation.png "House activations")
 ![Love](/examples/love-activation.png "Love activations")
+
+This code is part of my [thesis](https://findit.dtu.dk/en/catalog/2450517180) carried out at [DTU](http://www.dtu.dk).
